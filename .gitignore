@@ -1,13 +1,2 @@
 .ipynb_checkpoints/
-bigbow.pkl
-bigtfidf.pkl
-bigwordEmbs.pkl
-predbow.pkl
-predtestbow.pkl
-predtesttfidf.pkl
-predtestwordEmbs.pkl
-predtfidf.pkl
-predwordEmbs.pkl
-testbow.pkl
-testtfidf.pkl
-testwordEmbs.pkl
+*.pkl
